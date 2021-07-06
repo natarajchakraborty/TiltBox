@@ -5,6 +5,6 @@ Be able to use non-React libraries that directly interact with the DOM such as t
 
 -> Tilt on Point Button
 
-Uses React
+**Uses [React](https://github.com/facebook/react)**
 
-Live Page TiltBox
+## Live Page [TiltBox](https://natarajchakraborty.github.io/csb-vp10i/)
